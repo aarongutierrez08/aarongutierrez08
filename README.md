@@ -1,6 +1,6 @@
 ### Hola a todos y todas 👋
 
-En mi perfil de Github encontrarán repositorios de materias de mi Universidad como también cursos apartes.
+En mi perfil de Github encontrarán repositorios de proyectos personales, de materias de mi Universidad como también de otros cursos.
 
 Un poco sobre mi:
 
