@@ -7,5 +7,4 @@ Un poco sobre mi:
 - 🌱 Actualmente estoy estudiando para Técnico en Programación Informática en la Universidad de Quilmes.
 - 🔭 Trabajo en la empresa Zetti donde desarrollamos aplicaciones Web, Mobile y Desktop orientadas a Farmacias.
      También me dedico a trabajar para el Ministerio de Ciencia, Tecnología e Innovación de la Nación Argentina en el Centro Cultural de la Ciencia.
-- 🎯 Mi objetivo es conseguir mi primer empleo como programador o en algún sector IT.
 - 📫 Mi correo electrónico: aarongastongutierrez@gmail.com
